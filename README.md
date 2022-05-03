@@ -20,6 +20,6 @@
 </div>
 
 <div align="center">
-  <p>Feito JavaScript.</p>
+  
  
 </div>
